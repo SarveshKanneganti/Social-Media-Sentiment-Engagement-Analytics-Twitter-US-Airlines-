@@ -2,9 +2,8 @@ Social Media Sentiment & Engagement Analytics: A Deep Dive into US Airline Twitt
 
 
 This project delivers a comprehensive Natural Language Processing (NLP) and data analytics solution for analyzing public sentiment and engagement on Twitter, using a dataset of tweets directed at major US airlines. It leverages a robust Python toolkit to process, analyze, and visualize thousands of tweets, providing actionable insights into customer perception and brand reputation.
-Project 
 
-**Overview**
+** Project Overview**
 
 The objective of this project is to uncover patterns and trends in customer feedback by performing a multi-faceted analysis of social media data. By classifying tweets as positive, negative, or neutral, we can quantify public sentiment towards specific airlines and identify the key drivers behind customer complaints and praise. This analysis is crucial for companies seeking to understand their audience, improve customer service, and refine their brand strategy.
 
